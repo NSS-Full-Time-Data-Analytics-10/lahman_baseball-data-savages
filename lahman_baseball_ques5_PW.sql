@@ -6,7 +6,7 @@ WHERE yearid BETWEEN 1920 AND 2016
 GROUP BY decade
 ORDER BY decade ASC;
 
-
+--the average strikeouts was 13.04 in 1920 & homeruns was 1.86. I noticed that numbers increased each decade.
 
 
 
